@@ -25,4 +25,5 @@ Built with HTML5 & CSS3
 Strong focus on Typography, Usability and Overall User Experience
 Clean and Modern Design – can be used for any type of website
 Lifetime Update & Free Support
+
 I have used these themes for our company (http://www.kellyinstitute.com/california/santa-clara/). I usually prefer HTML5 and CSS3 for my other application and websites landing pages. All of them are perfectly match according to our criteria.
